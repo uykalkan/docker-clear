@@ -3,7 +3,7 @@
     "dcl": "./index.js"
   },
   "name": "docker-clear",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "docker clear all container and images",
   "main": "index.js",
   "repository": "https://github.com/uykalkan/docker-clear",
